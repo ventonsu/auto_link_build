@@ -1,0 +1,10 @@
+rest_time_in_minutes:
+10
+no_of_chromes:
+38
+close_down_time_after_rest_time_in_minutes:
+70
+delay_bw_pasting_and_confirmation_in_seconds:
+20
+password:
+PASTE-PASSWORD-HERE
